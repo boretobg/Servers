@@ -1,0 +1,110 @@
+[01:25:25] [main/ERROR]: Registry 'minecraft:chunk_generator_type' was empty after loading
+[01:25:31] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[01:25:32] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01:25:32] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:25:32] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:25:32] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01:25:32] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:25:33] [Server thread/INFO]: Starting minecraft server version 20w16a
+[01:25:33] [Server thread/INFO]: Loading properties
+[01:25:33] [Server thread/INFO]: Default game type: SURVIVAL
+[01:25:33] [Server thread/INFO]: Generating keypair
+[01:25:33] [Server thread/INFO]: Starting Minecraft server on 192.168.0.106:25555
+[01:25:34] [Server thread/INFO]: Using default channel type
+[01:25:40] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:25:40] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:25:40] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:25:40] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:25:40] [Server thread/INFO]: Preparing level "world"
+[01:25:40] [Server thread/INFO]: Reloading ResourceManager: Default
+[01:25:44] [Server thread/INFO]: Loaded 6 recipes
+[01:25:45] [Server thread/INFO]: Loaded 908 advancements
+[01:26:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:26:30] [Server thread/INFO]: Preparing spawn area: 0%
+[01:26:30] [Server thread/INFO]: Preparing spawn area: 0%
+[01:26:30] [Server thread/INFO]: Preparing spawn area: 0%
+[01:26:30] [Server thread/INFO]: Preparing spawn area: 0%
+[01:26:30] [Server thread/INFO]: Preparing spawn area: 0%
+[01:26:30] [Server thread/INFO]: Preparing spawn area: 0%
+[01:26:30] [Server thread/INFO]: Preparing spawn area: 0%
+[01:26:30] [Server thread/INFO]: Preparing spawn area: 0%
+[01:26:30] [Server thread/INFO]: Preparing spawn area: 0%
+[01:26:30] [Server thread/INFO]: Preparing spawn area: 0%
+[01:26:30] [Server thread/INFO]: Preparing spawn area: 0%
+[01:26:30] [Server thread/INFO]: Preparing spawn area: 0%
+[01:26:30] [Server thread/INFO]: Preparing spawn area: 0%
+[01:26:30] [Server thread/INFO]: Preparing spawn area: 0%
+[01:26:30] [Server thread/INFO]: Preparing spawn area: 0%
+[01:26:30] [Server thread/INFO]: Preparing spawn area: 0%
+[01:26:30] [Server thread/INFO]: Preparing spawn area: 0%
+[01:26:30] [Server thread/INFO]: Preparing spawn area: 0%
+[01:26:30] [Server thread/INFO]: Preparing spawn area: 0%
+[01:26:30] [Server thread/INFO]: Preparing spawn area: 0%
+[01:26:30] [Server thread/INFO]: Preparing spawn area: 0%
+[01:26:32] [Server thread/INFO]: Preparing spawn area: 0%
+[01:26:32] [Server thread/INFO]: Preparing spawn area: 0%
+[01:26:32] [Server thread/INFO]: Preparing spawn area: 0%
+[01:26:38] [Worker-1/INFO]: Preparing spawn area: 83%
+[01:26:38] [Worker-1/INFO]: Preparing spawn area: 83%
+[01:26:38] [Worker-2/INFO]: Preparing spawn area: 83%
+[01:26:38] [Worker-2/INFO]: Preparing spawn area: 83%
+[01:26:38] [Worker-2/INFO]: Preparing spawn area: 83%
+[01:26:38] [Worker-5/INFO]: Preparing spawn area: 83%
+[01:26:38] [Worker-5/INFO]: Preparing spawn area: 83%
+[01:26:38] [Worker-5/INFO]: Preparing spawn area: 83%
+[01:26:38] [Worker-5/INFO]: Preparing spawn area: 83%
+[01:26:38] [Worker-5/INFO]: Preparing spawn area: 83%
+[01:26:38] [Worker-5/INFO]: Preparing spawn area: 83%
+[01:26:38] [Worker-6/INFO]: Preparing spawn area: 83%
+[01:26:38] [Worker-4/INFO]: Preparing spawn area: 83%
+[01:26:39] [Server thread/INFO]: Preparing spawn area: 83%
+[01:26:39] [Server thread/INFO]: Preparing spawn area: 83%
+[01:26:39] [Worker-3/INFO]: Preparing spawn area: 98%
+[01:26:40] [Worker-3/INFO]: Preparing spawn area: 98%
+[01:26:40] [Worker-1/INFO]: Preparing spawn area: 98%
+[01:26:41] [Worker-7/INFO]: Preparing spawn area: 98%
+[01:26:41] [Server thread/INFO]: Preparing spawn area: 98%
+[01:26:42] [Server thread/INFO]: Time elapsed: 21832 ms
+[01:26:42] [Server thread/INFO]: Done (61.839s)! For help, type "help"
+[01:29:40] [Server thread/INFO]: Heissennberg[/178.239.226.144:53499] logged in with entity id 24 at (190.5, 67.0, -84.5)
+[01:29:40] [Server thread/INFO]: Heissennberg joined the game
+[01:29:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[01:30:02] [Server thread/INFO]: Heissennberg lost connection: Disconnected
+[01:30:02] [Server thread/INFO]: Heissennberg left the game
+[01:30:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6601ms or 132 ticks behind
+[01:30:55] [Server thread/INFO]: Kherasch[/94.155.83.162:51934] logged in with entity id 274 at (-6432.423007156764, 72.9375, 7710.295577998628)
+[01:30:55] [Server thread/INFO]: Kherasch joined the game
+[01:30:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3168ms or 63 ticks behind
+[01:31:10] [Server thread/INFO]: Heisenberg[/178.239.226.144:53578] logged in with entity id 780 at (182.13285277938763, 64.0, -70.59371261035496)
+[01:31:10] [Server thread/INFO]: Heisenberg joined the game
+[01:31:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6474ms or 129 ticks behind
+[01:31:25] [Server thread/INFO]: Teleported Heisenberg to Kherasch
+[01:31:25] [Server thread/WARN]: Heisenberg moved too quickly! -6629.440970304385,-5.768476202412984,7781.3711495889565
+[01:31:25] [Server thread/WARN]: Heisenberg moved too quickly! -6629.440970304385,-5.768476202412984,7781.3711495889565
+[01:31:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10649ms or 212 ticks behind
+[01:33:56] [Server thread/INFO]: Heisenberg has made the advancement [Cover Me With Diamonds]
+[01:34:56] [Server thread/INFO]: Heisenberg lost connection: Disconnected
+[01:34:56] [Server thread/INFO]: Heisenberg left the game
+[01:35:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[01:35:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8466ms or 169 ticks behind
+[01:35:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2408ms or 48 ticks behind
+[01:36:03] [Server thread/INFO]: boretobg[/178.239.226.144:53673] logged in with entity id 5227 at (-6428.300000011921, 74.1875, 7701.1883538061)
+[01:36:03] [Server thread/INFO]: boretobg joined the game
+[01:36:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[01:38:48] [Server thread/INFO]: boretobg lost connection: Disconnected
+[01:38:48] [Server thread/INFO]: boretobg left the game
+[01:38:52] [Server thread/INFO]: Kherasch lost connection: Disconnected
+[01:38:52] [Server thread/INFO]: Kherasch left the game
+[01:38:53] [Server thread/INFO]: Stopping the server
+[01:38:53] [Server thread/INFO]: Stopping server
+[01:38:53] [Server thread/INFO]: Saving players
+[01:38:53] [Server thread/INFO]: Saving worlds
+[01:38:53] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[01:38:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:38:53] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[01:38:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:38:53] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[01:38:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:38:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:38:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:38:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
