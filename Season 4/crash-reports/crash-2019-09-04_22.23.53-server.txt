@@ -1,0 +1,103 @@
+---- Minecraft Crash Report ----
+// On the bright side, I bought you a teddy bear!
+
+Time: 9/4/19 10:23 PM
+Description: Exception ticking world
+
+java.lang.ExceptionInInitializerError
+	at java.time.ZoneRegion.ofId(Unknown Source)
+	at java.time.ZoneId.of(Unknown Source)
+	at java.time.ZoneId.of(Unknown Source)
+	at java.time.ZoneId.of(Unknown Source)
+	at java.util.TimeZone.toZoneId(Unknown Source)
+	at java.time.ZoneId.systemDefault(Unknown Source)
+	at java.time.Clock.systemDefaultZone(Unknown Source)
+	at java.time.LocalDate.now(Unknown Source)
+	at aqv.dT(SourceFile:250)
+	at aqv.b(SourceFile:236)
+	at ajk.a(SourceFile:148)
+	at bib.a(SourceFile:131)
+	at vi.a(SourceFile:401)
+	at it.unimi.dsi.fastutil.longs.Long2ObjectLinkedOpenHashMap$1.forEach(Long2ObjectLinkedOpenHashMap.java:1661)
+	at com.google.common.collect.Iterables$UnmodifiableIterable.forEach(Iterables.java:105)
+	at vi.o(SourceFile:366)
+	at vi.a(SourceFile:335)
+	at vk.a(SourceFile:316)
+	at net.minecraft.server.MinecraftServer.b(SourceFile:835)
+	at uk.b(SourceFile:343)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:774)
+	at net.minecraft.server.MinecraftServer.run(SourceFile:642)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.time.zone.ZoneRulesException: Unable to load TZDB time-zone rules
+	at java.time.zone.TzdbZoneRulesProvider.<init>(Unknown Source)
+	at java.time.zone.ZoneRulesProvider$1.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.time.zone.ZoneRulesProvider.<clinit>(Unknown Source)
+	... 23 more
+Caused by: java.io.FileNotFoundException: C:\Program Files\Java\jre1.8.0_201\lib\tzdb.dat (The system cannot find the file specified)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(Unknown Source)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	... 27 more
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server thread
+Stacktrace:
+	at java.time.ZoneRegion.ofId(Unknown Source)
+	at java.time.ZoneId.of(Unknown Source)
+	at java.time.ZoneId.of(Unknown Source)
+	at java.time.ZoneId.of(Unknown Source)
+	at java.util.TimeZone.toZoneId(Unknown Source)
+	at java.time.ZoneId.systemDefault(Unknown Source)
+	at java.time.Clock.systemDefaultZone(Unknown Source)
+	at java.time.LocalDate.now(Unknown Source)
+	at aqv.dT(SourceFile:250)
+	at aqv.b(SourceFile:236)
+	at ajk.a(SourceFile:148)
+	at bib.a(SourceFile:131)
+	at vi.a(SourceFile:401)
+	at it.unimi.dsi.fastutil.longs.Long2ObjectLinkedOpenHashMap$1.forEach(Long2ObjectLinkedOpenHashMap.java:1661)
+	at com.google.common.collect.Iterables$UnmodifiableIterable.forEach(Iterables.java:105)
+	at vi.o(SourceFile:366)
+	at vi.a(SourceFile:335)
+	at vk.a(SourceFile:316)
+
+-- Affected level --
+Details:
+	All players: 1 total; [vl['Kherasch'/57, l='world', x=1204.55, y=74.00, z=-4247.06]]
+	Chunk stats: ServerChunkCache: 3072
+	Level dimension: minecraft:overworld
+	Level name: world
+	Level seed: -1804597695587207282
+	Level generator: ID 00 - default, ver 1. Features enabled: true
+	Level generator options: {}
+	Level spawn location: World: (192,65,-64), Chunk: (at 0,4,0 in 12,-4; contains blocks 192,0,-64 to 207,255,-49), Region: (0,-1; contains chunks 0,-32 to 31,-1, blocks 0,0,-512 to 511,255,-1)
+	Level time: 1827185 game time, 2243697 day time
+	Level storage version: 0x04ABD - Anvil
+	Level weather: Rain time: 14635 (now: true), thunder time: 35154 (now: false)
+	Level game mode: Game mode: survival (ID 0). Hardcore: false. Cheats: false
+Stacktrace:
+	at net.minecraft.server.MinecraftServer.b(SourceFile:835)
+	at uk.b(SourceFile:343)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:774)
+	at net.minecraft.server.MinecraftServer.run(SourceFile:642)
+	at java.lang.Thread.run(Unknown Source)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.14.4
+	Minecraft Version ID: 1.14.4
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_201, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 2820419568 bytes (2689 MB) / 4174905344 bytes (3981 MB) up to 4174905344 bytes (3981 MB)
+	CPUs: 4
+	JVM Flags: 2 total; -Xmx4096M -Xms4096M
+	Player Count: 1 / 20; [vl['Kherasch'/57, l='world', x=1204.55, y=74.00, z=-4247.06]]
+	Data Packs: vanilla
+	Is Modded: Unknown (can't tell)
+	Type: Dedicated Server (map_server.txt)

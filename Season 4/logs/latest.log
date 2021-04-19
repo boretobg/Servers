@@ -1,0 +1,86 @@
+[02:17:15] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:17:15] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:17:15] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[02:17:15] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:17:16] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[02:17:16] [Server thread/INFO]: Loading properties
+[02:17:16] [Server thread/INFO]: Default game type: SURVIVAL
+[02:17:16] [Server thread/INFO]: Generating keypair
+[02:17:16] [Server thread/INFO]: Starting Minecraft server on 192.168.0.106:25555
+[02:17:16] [Server thread/INFO]: Using default channel type
+[02:17:18] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:17:18] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:17:18] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:17:18] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:17:18] [Server thread/INFO]: Preparing level "world"
+[02:17:19] [Server thread/INFO]: Reloading ResourceManager: Default
+[02:17:20] [Server thread/INFO]: Loaded 6 recipes
+[02:17:21] [Server thread/INFO]: Loaded 811 advancements
+[02:17:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:17:32] [Server thread/INFO]: Preparing spawn area: 0%
+[02:17:32] [Server thread/INFO]: Preparing spawn area: 0%
+[02:17:32] [Server thread/INFO]: Preparing spawn area: 0%
+[02:17:32] [Server thread/INFO]: Preparing spawn area: 0%
+[02:17:32] [Server thread/INFO]: Preparing spawn area: 0%
+[02:17:32] [Server thread/INFO]: Preparing spawn area: 0%
+[02:17:33] [Server thread/INFO]: Preparing spawn area: 0%
+[02:17:33] [Server thread/INFO]: Preparing spawn area: 0%
+[02:17:33] [Server thread/INFO]: Preparing spawn area: 83%
+[02:17:34] [Server thread/INFO]: Time elapsed: 4735 ms
+[02:17:34] [Server thread/INFO]: Done (15.334s)! For help, type "help"
+[02:17:56] [Server thread/INFO]: Kherasch[/94.155.83.162:52149] logged in with entity id 60 at (1098.300000011921, 87.0, -4196.300000011921)
+[02:17:56] [Server thread/INFO]: Kherasch joined the game
+[02:17:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2471ms or 49 ticks behind
+[02:18:24] [Server thread/INFO]: Heisenberg[/178.239.226.144:54504] logged in with entity id 481 at (1098.3079653120542, 75.0, -4200.7151546134655)
+[02:18:24] [Server thread/INFO]: Heisenberg joined the game
+[02:18:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14228ms or 284 ticks behind
+[02:18:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12209ms or 244 ticks behind
+[02:19:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[02:19:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[02:23:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10396ms or 207 ticks behind
+[02:28:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3800ms or 76 ticks behind
+[02:33:24] [Server thread/WARN]: Boat (vehicle of Kherasch) moved too quickly! 4.031435323001119,0.0,9.58645231049195
+[02:33:24] [Server thread/WARN]: Boat (vehicle of Kherasch) moved too quickly! 4.186490536868291,0.0,9.95516201110695
+[02:33:24] [Server thread/WARN]: Boat (vehicle of Kherasch) moved too quickly! 4.341545750935438,0.0,10.323871711641914
+[02:33:24] [Server thread/WARN]: Boat (vehicle of Kherasch) moved too quickly! 4.496600965182552,0.0,10.692581412105937
+[02:33:24] [Server thread/WARN]: Boat (vehicle of Kherasch) moved too quickly! 4.651656179591669,0.0,11.061291112505387
+[02:33:24] [Server thread/WARN]: Boat (vehicle of Kherasch) moved too quickly! 4.806711394146646,0.0,11.430000812846629
+[02:33:24] [Server thread/WARN]: Boat (vehicle of Kherasch) moved too quickly! 4.961766608832818,0.0,11.79871051313603
+[02:33:24] [Server thread/WARN]: Boat (vehicle of Kherasch) moved too quickly! 5.11682182363711,0.0,12.167420213378136
+[02:33:24] [Server thread/WARN]: Boat (vehicle of Kherasch) moved too quickly! 5.271877038547586,0.0,12.536129913577497
+[02:33:24] [Server thread/WARN]: Boat (vehicle of Kherasch) moved too quickly! 5.426932253553787,0.0,12.904839613739568
+[02:33:24] [Server thread/WARN]: Boat (vehicle of Kherasch) moved too quickly! 5.581987468646048,0.0,13.273549313867079
+[02:33:24] [Server thread/WARN]: Boat (vehicle of Kherasch) moved too quickly! 5.737042683815844,0.0,13.642259013963667
+[02:33:24] [Server thread/WARN]: Boat (vehicle of Kherasch) moved too quickly! 5.892097899055329,0.0,14.01096871403297
+[02:33:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3605ms or 72 ticks behind
+[02:33:24] [Server thread/WARN]: Boat (vehicle of Kherasch) moved too quickly! 4.031435591758736,0.0,9.586452203569024
+[02:33:24] [Server thread/WARN]: Boat (vehicle of Kherasch) moved too quickly! 4.186490807482301,0.0,9.955161903445514
+[02:33:24] [Server thread/WARN]: Boat (vehicle of Kherasch) moved too quickly! 4.3415460232201895,0.0,10.323871603315638
+[02:33:24] [Server thread/WARN]: Boat (vehicle of Kherasch) moved too quickly! 4.496601238971039,0.0,10.692581303181214
+[02:33:24] [Server thread/WARN]: Boat (vehicle of Kherasch) moved too quickly! 4.651656454733484,0.0,11.061291003042243
+[02:33:24] [Server thread/WARN]: Boat (vehicle of Kherasch) moved too quickly! 4.806711670506388,0.0,11.430000702898724
+[02:33:24] [Server thread/WARN]: Boat (vehicle of Kherasch) moved too quickly! 4.9617668862887285,0.0,11.798710402751567
+[02:33:24] [Server thread/WARN]: Boat (vehicle of Kherasch) moved too quickly! 5.116822102079482,0.0,12.167420102600772
+[02:33:24] [Server thread/WARN]: Boat (vehicle of Kherasch) moved too quickly! 5.271877317877966,0.0,12.536129802447249
+[02:33:24] [Server thread/WARN]: Boat (vehicle of Kherasch) moved too quickly! 5.426932533683271,0.0,12.904839502290997
+[02:33:24] [Server thread/WARN]: Boat (vehicle of Kherasch) moved too quickly! 5.581987749494715,0.0,13.273549202132017
+[02:33:24] [Server thread/WARN]: Boat (vehicle of Kherasch) moved too quickly! 5.73704296531173,0.0,13.642258901971218
+[02:33:24] [Server thread/WARN]: Boat (vehicle of Kherasch) moved too quickly! 5.892098181133747,0.0,14.0109686018086
+[02:36:31] [Server thread/INFO]: <Heisenberg> Zzzz
+[02:36:32] [Server thread/INFO]: <Heisenberg> zz
+[02:36:32] [Server thread/INFO]: <Heisenberg> z
+[02:36:32] [Server thread/INFO]: <Heisenberg> z
+[02:36:32] [Server thread/INFO]: <Heisenberg> z
+[02:36:32] [Server thread/INFO]: <Heisenberg> z
+[02:36:33] [Server thread/INFO]: <Heisenberg> z
+[02:36:33] [Server thread/INFO]: <Heisenberg> z
+[02:36:33] [Server thread/INFO]: <Heisenberg> z
+[02:36:39] [Server thread/INFO]: Stopping the server
+[02:36:39] [Server thread/INFO]: Stopping server
+[02:36:39] [Server thread/INFO]: Saving players
+[02:36:39] [Server thread/INFO]: Kherasch lost connection: Disconnected
+[02:36:39] [Server thread/INFO]: Kherasch left the game
+[02:36:40] [Server thread/INFO]: Saving worlds
+[02:36:40] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[02:36:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:36:40] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
