@@ -1,0 +1,67 @@
+{
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2021-04-02 01:44:33 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2021-04-02 01:44:33 +0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "golden_carrot": "2021-04-02 01:47:19 +0300"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2021-04-02 01:47:19 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2021-04-02 01:44:33 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2021-04-02 01:44:33 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2021-04-02 01:44:33 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_double_plant": "2021-04-02 01:50:37 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2021-04-02 01:44:33 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2021-04-02 01:43:37 +0300",
+      "minecraft:taiga": "2021-04-02 01:44:00 +0300",
+      "minecraft:taiga_hills": "2021-04-02 01:46:10 +0300",
+      "minecraft:river": "2021-04-02 01:44:38 +0300",
+      "minecraft:plains": "2021-04-02 01:44:07 +0300"
+    },
+    "done": false
+  },
+  "DataVersion": 2230
+}
