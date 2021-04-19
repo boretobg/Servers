@@ -1,0 +1,77 @@
+[02:37:44] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:37:44] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:37:45] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[02:37:45] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:37:45] [Server thread/INFO]: Starting minecraft server version 1.14.2
+[02:37:46] [Server thread/INFO]: Loading properties
+[02:37:46] [Server thread/INFO]: Default game type: SURVIVAL
+[02:37:46] [Server thread/INFO]: Generating keypair
+[02:37:47] [Server thread/INFO]: Starting Minecraft server on 192.168.0.106:25555
+[02:37:47] [Server thread/INFO]: Using default channel type
+[02:37:55] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:37:55] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:37:55] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:37:55] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:37:55] [Server thread/INFO]: Preparing level "world"
+[02:37:57] [Server thread/INFO]: Reloading ResourceManager: Default
+[02:38:13] [Server thread/INFO]: Loaded 6 recipes
+[02:38:19] [Server thread/INFO]: Loaded 811 advancements
+[02:38:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:38:25] [Server thread/INFO]: Preparing spawn area: 0%
+[02:38:25] [Server thread/INFO]: Preparing spawn area: 0%
+[02:38:25] [Server thread/INFO]: Preparing spawn area: 0%
+[02:38:25] [Server thread/INFO]: Preparing spawn area: 0%
+[02:38:25] [Server thread/INFO]: Preparing spawn area: 0%
+[02:38:25] [Server thread/INFO]: Preparing spawn area: 0%
+[02:38:25] [Server thread/INFO]: Preparing spawn area: 0%
+[02:38:25] [Server thread/INFO]: Preparing spawn area: 0%
+[02:38:25] [Server thread/INFO]: Preparing spawn area: 0%
+[02:38:25] [Server thread/INFO]: Preparing spawn area: 0%
+[02:38:26] [Server thread/INFO]: Preparing spawn area: 0%
+[02:38:26] [Server thread/INFO]: Preparing spawn area: 0%
+[02:38:26] [Server thread/INFO]: Preparing spawn area: 0%
+[02:38:26] [Server thread/INFO]: Time elapsed: 6504 ms
+[02:38:26] [Server thread/INFO]: Done (31.196s)! For help, type "help"
+[02:38:41] [Server thread/INFO]: Kherasch[/94.155.83.162:52240] logged in with entity id 41 at (140.5968643009641, 64.5, 2366.287734525242)
+[02:38:41] [Server thread/INFO]: Kherasch joined the game
+[02:38:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[02:39:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26730ms or 534 ticks behind
+[02:39:39] [Server thread/INFO]: Heisenberg[/178.239.226.144:54747] logged in with entity id 490 at (140.55193986220468, 63.0, 2364.3176286509656)
+[02:39:39] [Server thread/INFO]: Heisenberg joined the game
+[02:39:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2568ms or 51 ticks behind
+[02:40:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6286ms or 125 ticks behind
+[02:40:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[02:40:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5091ms or 101 ticks behind
+[02:41:12] [Server thread/INFO]: Kherasch lost connection: Disconnected
+[02:41:12] [Server thread/INFO]: Kherasch left the game
+[02:41:14] [Server thread/INFO]: Kherasch[/94.155.83.162:52251] logged in with entity id 3243 at (103.41123455163518, 63.0, 2396.620619375812)
+[02:41:14] [Server thread/INFO]: Kherasch joined the game
+[02:41:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[02:41:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
+[02:41:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3750ms or 75 ticks behind
+[02:44:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15200ms or 304 ticks behind
+[02:48:04] [Server thread/WARN]: Heisenberg moved too quickly! -23.09167452654917,5.1875,-2363.3555507126052
+[02:48:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2141ms or 42 ticks behind
+[02:48:07] [Server thread/WARN]: Kherasch moved too quickly! -23.501924749448122,5.464159374955443,-2365.310026352236
+[02:48:07] [Server thread/WARN]: Kherasch moved too quickly! -23.501924749448122,5.464159374955443,-2365.310026352236
+[02:48:13] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[02:48:13] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[02:49:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2755ms or 55 ticks behind
+[02:49:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2086ms or 41 ticks behind
+[02:49:48] [Server thread/WARN]: Kherasch moved too quickly! 2.5684852420947664,-0.8338907390617862,9.884642924458149
+[02:49:57] [Server thread/WARN]: Kherasch moved too quickly! -0.23982916767661777,-1.963369175893277,10.107331213874659
+[02:50:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23572ms or 471 ticks behind
+[02:50:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6560ms or 131 ticks behind
+[02:51:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2800ms or 56 ticks behind
+[02:55:21] [Server thread/WARN]: Heisenberg moved too quickly! -9.87409274540289,0.0,2.4574225123815268
+[02:55:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7550ms or 151 ticks behind
+[02:56:24] [Server thread/INFO]: Heisenberg lost connection: Disconnected
+[02:56:24] [Server thread/INFO]: Heisenberg left the game
+[02:56:26] [Server thread/INFO]: Kherasch lost connection: Disconnected
+[02:56:26] [Server thread/INFO]: Kherasch left the game
+[02:56:28] [Server thread/INFO]: Heisenberg[/178.239.226.144:54839] logged in with entity id 207566 at (135.97018635443195, 62.133560391554816, 2401.4407822994613)
+[02:56:28] [Server thread/INFO]: Heisenberg joined the game
+[02:56:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[02:57:19] [Server thread/INFO]: Heisenberg lost connection: Disconnected
+[02:57:19] [Server thread/INFO]: Heisenberg left the game
+[03:00:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
