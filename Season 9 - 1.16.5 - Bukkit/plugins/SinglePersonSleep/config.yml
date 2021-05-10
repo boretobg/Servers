@@ -1,0 +1,16 @@
+# DISPLAY MESSAGE WHEN PLAYER GOES TO SLEEP (true/false)
+display-message: true
+
+# USE & FOR COLORS
+sleep-message: "%name% is now sleeping"
+
+# DISPLAY MESSAGE ACROSS ALL WORLDS WHEN PLAYER GOES TO SLEEP.
+# true IF YES OR false TO DISPLAY IT ONLY IN THE WORLD PLAYER GOES TO SLEEP IN
+display-message-across-all-worlds: false
+
+# ADD WORLD THAT YOU DON'T WANT 'SINGLE PERSON SLEEP' FEATURE TO WORK IN
+# THIS IS EXAMPLE OF WHAT LIST SHOULD LOOK LIKE
+# disabled-worlds:
+# - world1
+# - world2
+disabled-worlds: []

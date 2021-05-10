@@ -1,0 +1,27 @@
+[10-05-2021 22:31:08] Successfully created debug_log.txt.
+[10-05-2021 22:31:08] Server starting.
+Copying defaults from config.yml...
+Saving config.yml...
+[10-05-2021 22:31:08] Succesfully loaded config.yml.
+Loaded commands.
+Loaded plugin SetHome v1.2 version 1.2.
+SetHome v1.2's native version is 1.16 and is running on server version 2991-Bukkit-f3f3094 (MC: 1.16.5).
+WARNING. Plugin is running on a different version. Some features may not work.
+Bukkit version: 1.16.5-R0.1-SNAPSHOT
+Registered listeners.
+[10-05-2021 22:31:08] Succesfully started SetHome v1.21.2
+==================================
+config test: null
+canSetHome: true
+Player is attempting to set a home. Checking whether the home exists...
+Does the config contain the same name as what the player submitted: true
+Player set a home.
+Player UUID: 578f8380-cff4-33c8-9f51-a2d6bbe70d46
+Home name: spawn
+X: -4.03552318817862
+Y: 79.0
+Z: -2.1773214785195116
+world: world
+[10-05-2021 22:31:50] Successfully was able to save home to config.
+Server stopping...
+[10-05-2021 22:31:08] Plugin stopped.

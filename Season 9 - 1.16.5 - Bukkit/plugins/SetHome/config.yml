@@ -1,0 +1,9 @@
+log-items: true
+players:
+  homes:
+    578f8380-cff4-33c8-9f51-a2d6bbe70d46:
+      spawn:
+        x: -4.03552318817862
+        y: 79.0
+        z: -2.1773214785195116
+        world: world
