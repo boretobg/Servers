@@ -127,3 +127,56 @@ Registered listeners.
 [11-05-2021 15:00:43] Succesfully started SetHome v1.21.2
 Server stopping...
 [11-05-2021 15:00:43] Plugin stopped.
+[11-05-2021 20:48:01] Server starting.
+Copying defaults from config.yml...
+Saving config.yml...
+[11-05-2021 20:48:01] Succesfully loaded config.yml.
+Loaded commands.
+Loaded plugin SetHome v1.2 version 1.2.
+SetHome v1.2's native version is 1.16 and is running on server version 2991-Bukkit-f3f3094 (MC: 1.16.5).
+WARNING. Plugin is running on a different version. Some features may not work.
+Bukkit version: 1.16.5-R0.1-SNAPSHOT
+Registered listeners.
+[11-05-2021 20:48:01] Succesfully started SetHome v1.21.2
+==================================
+Player ran the command /homes.
+==================================
+config test: MemorySection[path='players.homes.578f8380-cff4-33c8-9f51-a2d6bbe70d46', root='YamlConfiguration']
+i: 2
+Player doesn't have permission homes.2
+canSetHome: false
+==================================
+config test: null
+canSetHome: true
+Player is attempting to set a home. Checking whether the home exists...
+Does the config contain the same name as what the player submitted: true
+Player set a home.
+Player UUID: 3914738d-abed-3434-868a-de408e48df28
+Home name: dom
+X: 4780.5280190312615
+Y: 64.0
+Z: 2599.657712578863
+world: world
+[11-05-2021 20:48:33] Successfully was able to save home to config.
+==================================
+Player ran the command /homes.
+Player Kherasch teleported to home dom. Location: Location{world=CraftWorld{name=world},x=4780.5280190312615,y=64.0,z=2599.657712578863,pitch=0.0,yaw=0.0}
+delhome args: spawn
+world: world
+==================================
+Player ran the command /homes.
+==================================
+config test: MemorySection[path='players.homes.578f8380-cff4-33c8-9f51-a2d6bbe70d46', root='YamlConfiguration']
+canSetHome: true
+Player is attempting to set a home. Checking whether the home exists...
+Does the config contain the same name as what the player submitted: true
+Player set a home.
+Player UUID: 578f8380-cff4-33c8-9f51-a2d6bbe70d46
+Home name: home
+X: 4788.678905542114
+Y: 64.0
+Z: 2599.8405113849335
+world: world
+[11-05-2021 20:48:33] Successfully was able to save home to config.
+Server stopping...
+[11-05-2021 20:48:01] Plugin stopped.
