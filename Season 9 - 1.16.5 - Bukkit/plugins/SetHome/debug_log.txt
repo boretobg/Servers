@@ -180,3 +180,46 @@ world: world
 [11-05-2021 20:48:33] Successfully was able to save home to config.
 Server stopping...
 [11-05-2021 20:48:01] Plugin stopped.
+[12-05-2021 20:27:12] Server starting.
+Copying defaults from config.yml...
+Saving config.yml...
+[12-05-2021 20:27:12] Succesfully loaded config.yml.
+Loaded commands.
+Loaded plugin SetHome v1.2 version 1.2.
+SetHome v1.2's native version is 1.16 and is running on server version 2991-Bukkit-f3f3094 (MC: 1.16.5).
+WARNING. Plugin is running on a different version. Some features may not work.
+Bukkit version: 1.16.5-R0.1-SNAPSHOT
+Registered listeners.
+[12-05-2021 20:27:12] Succesfully started SetHome v1.21.2
+Server stopping...
+[12-05-2021 20:27:12] Plugin stopped.
+[12-05-2021 21:02:15] Server starting.
+Copying defaults from config.yml...
+Saving config.yml...
+[12-05-2021 21:02:15] Succesfully loaded config.yml.
+Loaded commands.
+Loaded plugin SetHome v1.2 version 1.2.
+SetHome v1.2's native version is 1.16 and is running on server version 2991-Bukkit-f3f3094 (MC: 1.16.5).
+WARNING. Plugin is running on a different version. Some features may not work.
+Bukkit version: 1.16.5-R0.1-SNAPSHOT
+Registered listeners.
+[12-05-2021 21:02:15] Succesfully started SetHome v1.21.2
+Player Kherasch teleported to home dom. Location: Location{world=CraftWorld{name=world},x=4780.5280190312615,y=64.0,z=2599.657712578863,pitch=0.0,yaw=0.0}
+delhome args: dom
+world: world
+==================================
+config test: MemorySection[path='players.homes.3914738d-abed-3434-868a-de408e48df28', root='YamlConfiguration']
+canSetHome: true
+Player is attempting to set a home. Checking whether the home exists...
+Does the config contain the same name as what the player submitted: true
+Player set a home.
+Player UUID: 3914738d-abed-3434-868a-de408e48df28
+Home name: dom
+X: 4685.799428328251
+Y: 77.0
+Z: 2600.8201887597393
+world: world
+[12-05-2021 21:02:15] Successfully was able to save home to config.
+Player Heisenberg teleported to home home. Location: Location{world=CraftWorld{name=world},x=4788.678905542114,y=64.0,z=2599.8405113849335,pitch=0.0,yaw=0.0}
+Server stopping...
+[12-05-2021 21:02:15] Plugin stopped.
