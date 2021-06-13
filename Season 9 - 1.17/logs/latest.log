@@ -1,0 +1,22 @@
+[00:29:02] [Async Chat Thread - #0/INFO]: <Heisenberg> -222 -2728 skelet[m
+[00:40:37] [Server thread/INFO]: Heisenberg has made the advancement [Hot Stuff]
+[00:41:42] [Server thread/INFO]: Teleported Kherasch to Heisenberg
+[00:47:45] [Server thread/INFO]: Heisenberg fell from a high place
+[00:51:15] [Server thread/INFO]: Kherasch has made the advancement [Hot Stuff]
+[01:00:27] [Server thread/INFO]: Kherasch lost connection: Disconnected
+[01:00:27] [Server thread/INFO]: Kherasch left the game
+[01:12:07] [Server thread/INFO]: Heisenberg lost connection: Disconnected
+[01:12:07] [Server thread/INFO]: Heisenberg left the game
+[01:12:08] [Server thread/INFO]: Stopping the server
+[01:12:08] [Server thread/INFO]: Stopping server
+[01:12:08] [Server thread/INFO]: Saving players
+[01:12:08] [Server thread/INFO]: Saving worlds
+[01:12:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:12:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:12:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[01:12:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:12:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[01:12:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:12:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:12:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:12:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
