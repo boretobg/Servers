@@ -1,0 +1,12 @@
+# BackPacks+ by CoachL_ck
+# Wiki: https://github.com/aj-rom/BackPacksPlus
+# Support: https://discord.gg/KjBMWzVnFf
+# PLAYER_HEAD Textures: https://minecraft-heads.com/
+# Please do not change Config-Version
+Config-Version: 3
+Language: "en"
+Check-For-Update: true
+General:
+  BackPackLimiter:
+    Enabled: false
+    Repeat: 20
