@@ -1,0 +1,9 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:old_growth_pine_taiga": "2021-12-07 18:05:13 +0200"
+    },
+    "done": false
+  },
+  "DataVersion": 2860
+}
